@@ -1,0 +1,51 @@
+html, body{
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    background: url(https://stupiddope.com/wp-content/uploads/2022/04/Rolling-Loud-Toronto-1.jpg) center no-repeat;
+background-size: cover;
+background-attachment: fixed;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 100%;
+}
+
+.loud{
+    margin: 0 auto;
+    width: 60%;
+    padding-bottom: 40%;
+}
+#content{
+    padding: 20px;
+    background: gray;
+}
+h1, h2{
+    font-family: serif;
+    color: black;
+}
+
+h1{
+    font-size: 3.5em;
+    margin-bottom: 0;
+}
+
+h2{
+    font-size: 1.5em;
+    margin-top: .5em;
+}
+
+h3{
+    font-family: serif;
+    font-size: 1.5em;
+    margin-top: .5em;
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+}
+p{
+    font-size: 1em;
+}
